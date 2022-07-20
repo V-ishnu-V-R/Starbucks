@@ -1,0 +1,202 @@
+.header-div{
+    width: 100%;
+    
+    
+   
+}
+
+.color-div{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0,99,65,1);;
+    
+}
+.logos-div{
+   
+display: flex;
+flex-direction: row;
+
+}
+.logo1{
+    margin-left: 40px;
+    margin-top: 18px;
+    padding-bottom: 5px;
+}
+.icon{
+    width: 14px;
+   margin-left: 1007px;
+   padding-top: 20px;
+   
+
+}
+.svgLogo{
+    fill:rgba(0,99,65);;
+    cursor: pointer;
+}
+.logo-p{
+    padding-left: 14px;
+    padding-top: 11px;
+    color:  #5b5959;;
+    font-family: Lato,Helvetica,Arial,sans-serif;;
+    font-weight: 400;
+    font-size: 7px;
+    cursor: pointer;
+    
+}
+.menu{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-left: 10px;
+
+}
+.p1{
+margin-left: 35px;
+font-family: Lato,Helvetica,Arial,sans-serif;;
+font-size: 14px;
+cursor: pointer;
+padding: 2px 5px 4px 2px;
+font-size: small;
+
+}
+.p1:hover{
+    background-color: black;
+    color: white;
+    
+}
+.pic1{
+   width: 100%;
+   height: 500px;
+background-image: url(https://www.starbucks.in/media/register3.jpg);
+background-position: center;
+background-size: cover;
+}
+.pic2{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.starbucks.in/media/monsoon_delights_web_2400X560.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic3{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.starbucks.in/media/tropical_favourite_web_2400X560.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic4{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.starbucks.in/media/scoope-banner4.png);
+    background-position: center;
+    background-size: cover;
+}
+.pic5{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.starbucks.in/media/Desktop_Mobile_Order_and_Pay_tcm87-64504.png);
+    background-position: center;
+    background-size: cover;
+}
+.pic6{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.starbucks.in/media/web_revised_tcm87-72096.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic1-1{
+width: 100%;
+display: flex;
+flex-direction: row;
+
+}
+.pic1-11{
+    margin-left: 75px;
+    margin-top: 83px;
+}
+.text1{
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 189px;
+    margin-left: 154px;
+   
+    font-weight: bold;
+}
+.text1-1{
+   padding-top: -9px;
+   padding-left: 151px;
+   padding-bottom: 100px;
+   font-size: 20px;
+   font-style: italic;
+}
+
+
+
+
+
+
+
+
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.oppur{
+    margin-left: 200px;
+    margin-top: 100px;
+    font-weight: 400;
+    font-size: 24px;
+
+}
+.para{
+    margin-top: 200px;
+    margin-left: -450px;
+    font-size: 20px;
+    font-style: italic;
+}
+.footer{
+    width: 100%;
+}
+.icons{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+}
+.fb{
+    padding-left: 30px;
+    font-size: 60px;
+    padding-top: 20px;
+
+}
+.twit{
+    padding-left: 30px;
+    font-size: 60px;
+    padding-top: 20px;
+
+}
+.insta{
+    padding-left: 30px;
+    font-size: 60px;
+    padding-top: 20px;
+
+}
+.end{
+    display: flex;
+    flex-direction: row ;
+    margin-left: 100px;
+
+}
+.end1,.end2,.end3{
+    flex: 1;
+}
+
